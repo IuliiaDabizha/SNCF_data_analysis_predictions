@@ -9,7 +9,6 @@ Additionally, it includes an **interactive dashboard** for visualizing key insig
 
 ```plaintext
 .
-├── 📄 G-AIA-210_tardis.pdf          # Project report
 ├── 📄 README.md                     # Project documentation
 ├── 📄 requirements.txt              # Python dependencies
 ├── 📓 tardis_eda.ipynb              # Exploratory Data Analysis notebook
